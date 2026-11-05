@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "module": "esnext",
+    // "module": "ES2022",
+    // "moduleResolution": "bundler",
+    "target": "esnext",
+    "strict": true,
+    // "moduleDetection": "force",
+    "skipLibCheck": true,
+  }
+}
