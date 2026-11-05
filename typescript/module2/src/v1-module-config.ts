@@ -1,6 +1,5 @@
-export const greetings = () => {
-  console.log("Hello, World!");
-};
+const greetings = () => {
+  console.log("Hello Programming Hero")
+}
 
-greetings();
-// console.log(addition(5, 3)); // Output: 8
+// greetings()
